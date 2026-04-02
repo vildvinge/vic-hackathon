@@ -1,7 +1,6 @@
 # vic-hackathon - Martin Vildvinge's project
 
-# Partner Incident Dashboard
-#  - -Jira Dashboard 
+# Partner Incident Dashboard - Jira 
 https://vicaiglobal.atlassian.net/jira/dashboards/10440
 
 # Google Sheet Sub-project: Partner_Incident_Dashboard
